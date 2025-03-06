@@ -1,0 +1,11 @@
+name: a2b_inference
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip=25.0
+  - python=3.13
+  - pip:
+    - torch==2.6.0
+    - scikit-learn==1.6.1
+    - numpy==2.2.2
