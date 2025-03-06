@@ -129,6 +129,6 @@ The output then looks like the following:
 
 }
 ```
-The output is given per evaluated A2B model (SVR, NN) and per gender (neutral, female, male). For each model output, you will find the name (of model and anthropometric measurements as given on the command line), the gender, the number of beta parameters used and the results per subject.
+The output is given per evaluated A2B model (SVR, NN) and per gender (neutral, female, male). For each model output, you will find the name (of model and anthropometric measurements as given on the command line: `<given_name>_A2B_<svr/nn>_<gender>`), the gender, the number of beta parameters used and the results per subject.
 
 It is further possible to pass a pickle-file that contains a dictionary mapping from subject names to a dictionary of anthropometric measurements, whereby the measurements should be a list. This functionality is used for the evaluation process (see Section *Evaluation* of the full repository). The list of measurements is reduced with a median operation and then passed to the A2B models. The output is then a single set of beta parameters per subject per A2B model. The final result is identical to the example output above.
