@@ -1,6 +1,6 @@
 # Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes
 
-This repository contains only the inference code for the A2B models of our paper "[Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes](https://arxiv.org/abs/2409.17671)". . If you are interested in the full functionality, evaluation and IK code, please refer to the [full repository](https://github.com/kaulquappe23/a2b_human_mesh).
+This repository contains only the inference code for the A2B models of our paper "[Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes](https://arxiv.org/abs/2409.17671)". If you are interested in the full functionality, evaluation and IK code, please refer to the [full repository](https://github.com/kaulquappe23/a2b_human_mesh).
 
 The paper is accepted for [CVsports'25](https://vap.aau.dk/cvsports/) at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 
 
