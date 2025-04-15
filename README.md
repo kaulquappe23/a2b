@@ -140,10 +140,10 @@ It is further possible to pass a pickle-file that contains a dictionary mapping 
 
 In case this work is useful for your research, please consider citing:
 ```bibtex
-@article{ludwig2024leveraging,
+@article{ludwig2025leveraging,
   title={Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes},
   author={Ludwig, Katja and Lorenz, Julian and Kienzle, Daniel and Bui, Tuan and Lienhart, Rainer},
-  journal={arXiv preprint arXiv:2409.17671},
-  year={2024}
+  journal = {IEEE/CVF International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year={2025}
 }
 ```
